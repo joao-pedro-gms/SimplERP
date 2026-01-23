@@ -1,0 +1,21 @@
+{
+  "name": "simplerp",
+  "version": "1.0.0",
+  "description": "Esse projeto consiste em um sistema ERP local self-hosted que pode ser usado em qualquer máquina devido ao seu foco de ser um software leve e de fácil uso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-pedro-gms/SimplERP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joao-pedro-gms/SimplERP/issues"
+  },
+  "homepage": "https://github.com/joao-pedro-gms/SimplERP#readme"
+}
