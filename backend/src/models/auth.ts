@@ -5,13 +5,3 @@ export interface UserAuth {
     email: string | null;
     role: string | null;
 }
-
-const userAuth: UserAuth = {
-    id: null,
-    username: null,
-    password: null,
-    email: null,
-    role: null,
-};
-
-export default userAuth;
