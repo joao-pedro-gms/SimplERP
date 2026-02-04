@@ -183,3 +183,5 @@ testem.log
 Thumbs.db
 frontend/simplerp-frontend/README.md
 frontend/simplerp-frontend/.editorconfig
+
+database.sqlite
